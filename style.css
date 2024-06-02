@@ -1,0 +1,15 @@
+body {
+    padding-top: 56px;
+}
+
+#about img {
+    border-radius: 50%;
+}
+
+#projects .card {
+    transition: transform 0.2s;
+}
+
+#projects .card:hover {
+    transform: scale(1.05);
+}
